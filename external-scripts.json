@@ -1,6 +1,7 @@
 [
   "hubot-devops-reactions",
   "hubot-diagnostics",
+  "hubot-explainshell",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-google-images",
